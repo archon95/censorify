@@ -1,0 +1,10 @@
+{
+    "name": "censorify.archon95",
+    "version": "0.1.0",
+    "description": "a simple node.js module",
+    "repository": {
+        "type": "git",
+	"location":
+	    "https://github.com/archon95/censorify/package.json"
+    }
+}
